@@ -4,6 +4,7 @@
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 </p>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,16 +13,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 </p>
 
-<p align = "center">
-<img alt = "License" src = "https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000 ">
+<h1>
+ <p align = "center">
+<img alt = "Projeto Devlink" src ="assets/brunoperfil.png" width = "80%">
+</h1>
 
-</p>
-
-<br>
-
-<p align = "center">
-<img alt = "projeto DevLinks" src = ".github/preview.png" width = "100%">
-
+<p>
+Projeto 
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
@@ -47,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Beec
+Feito com ♥ by Beec 😊
