@@ -34,9 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de vistas online.
 
-## 🔖Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](http://127.0.0.1:3000/index.html).
 
 ## :memo: Licença
 
